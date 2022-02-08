@@ -44,7 +44,7 @@
 .item3 {
 
   grid-column: 1/ span 3;
-  margin-bottom:340px;
+  margin-bottom:352px;
   text-align: center;
   color: white;
 
@@ -74,11 +74,11 @@
 
 
 
-a {
+li a {
   color: white;
 }
 
-a:hover {
+li a:hover {
   font-style: italic;
 }
 
