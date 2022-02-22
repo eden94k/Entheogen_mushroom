@@ -71,3 +71,9 @@ h2{
   display: flex;
 justify-content: center;
 }
+
+.flex5{
+  display:flex;
+  justify-content: flex-end;
+  padding-right: 20px;
+}
